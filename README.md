@@ -14,7 +14,7 @@
 🏡 [portfolio][portfolio] **|** 
 👔 [linkedin][linkedin]
 
-[banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
+[banner]: https://github.com/bzamoram/bzamoram/blob/main/banner.png
 [resume]: https://github.com/bzamoram/bzamoram/blob/main/Bryans_Resume_Master.pdf
 [portfolio]: https://bzamoram.github.io
 [linkedin]: https://www.linkedin.com/in/bzamoram/
