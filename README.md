@@ -13,7 +13,7 @@
 🏡 [portfolio][portfolio] **|** 
 👔 [linkedin][linkedin]
 
-[banner]: https://github.com/user-attachments/assets/3e3a30dd-2bf6-42eb-b7b6-227a4e9e7076
+<kbd><img width="619" alt="image" src="https://github.com/user-attachments/assets/0935297b-490d-46af-aa06-234263c640e2"></kbd>
 [resume]: https://github.com/bzamoram/bzamoram/blob/main/Bryans_Resume_Master.pdf
 [portfolio]: https://bzamoram.github.io
 [linkedin]: https://www.linkedin.com/in/bzamoram/
