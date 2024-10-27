@@ -1,6 +1,6 @@
 ## Hi, I'm Bryan. 👋
 
-<kbd><img width="619" alt="image" src="https://github.com/user-attachments/assets/0935297b-490d-46af-aa06-234263c640e2"></kbd>
+<kbd><img width="1203" alt="image" src="https://github.com/user-attachments/assets/0935297b-490d-46af-aa06-234263c640e2"></kbd>
 
 ##   I'm an aspiring data scientist and self-proclaimed matcha lover!
 
