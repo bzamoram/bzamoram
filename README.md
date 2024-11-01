@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on DV prevention benefits from shelters like YWCA 
 - 🌱 I’m currently learning SQL, Shiny, machine learning
-- 💬 Ask me about R, Full Stack development
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: Every Saturday, I compete in building Legos!
 
 📃 [resume][resume] **|** 
