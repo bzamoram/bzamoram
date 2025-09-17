@@ -6,7 +6,7 @@
 ##   I'm an aspiring data professional and self-proclaimed matcha lover!
 
 - 🔭 I’m currently working on an end to front data project with nosql data
-- 🌱 I’m currently learning Cloud Computing, dbt and how to navigate Snowflake
+- 🌱 I’m currently learning Cloud Computing, dbt and APIs
 - ⚡ Fun fact: Every Saturday, I try a new matcha latte mix!
 
 📃 [resume][resume] **|** 
