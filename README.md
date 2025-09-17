@@ -3,11 +3,11 @@
 ![banner_readme](https://github.com/user-attachments/assets/72360f6f-fde4-44e1-89c6-ffde6499ac52)
 
 
-##   I'm an aspiring data scientist and self-proclaimed matcha lover!
+##   I'm an aspiring data professional and self-proclaimed matcha lover!
 
-- 🔭 I’m currently working on DV prevention benefits from shelters like YWCA 
-- 🌱 I’m currently learning SQL, Shiny, machine learning
-- ⚡ Fun fact: Every Saturday, I compete in building Legos!
+- 🔭 I’m currently working on an end to front data project with nosql data
+- 🌱 I’m currently learning Cloud Computing, dbt and how to navigate Snowflake
+- ⚡ Fun fact: Every Saturday, I try a new matcha latte mix!
 
 📃 [resume][resume] **|** 
 🏡 [portfolio][portfolio] **|** 
