@@ -13,6 +13,6 @@
 🏡 [portfolio][portfolio] **|** 
 👔 [linkedin][linkedin]
 
-[resume]: https://github.com/bzamoram/bzamoram/blob/main/docs/Zamora, Bryan-Resume.pdf
+[resume]: https://github.com/bzamoram/bzamoram/blob/main/docs/Zamora_Bryan-Resume.pdf
 [portfolio]: https://bzamoram.vercel.app
 [linkedin]: https://www.linkedin.com/in/bzamoram/
