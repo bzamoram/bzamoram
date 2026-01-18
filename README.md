@@ -14,5 +14,5 @@
 👔 [linkedin][linkedin]
 
 [resume]: https://github.com/bzamoram/bzamoram/blob/main/Bryan_ZM-resume-master.pdf
-[portfolio]: https://bzamoram.github.io
+[portfolio]: https://bzamoram.vercel.app
 [linkedin]: https://www.linkedin.com/in/bzamoram/
