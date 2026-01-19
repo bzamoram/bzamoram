@@ -3,7 +3,7 @@
 ![banner_readme](https://github.com/bzamoram/bzamoram/blob/main/img/header.png)
 
 
-##   I'm an aspiring data professional and self-proclaimed matcha lover!
+##   I'm a data professional and self-proclaimed matcha lover!
 
 -  I’m currently working on an end to front data project with nosql data
 -  I’m currently learning Cloud Computing, dbt and APIs
